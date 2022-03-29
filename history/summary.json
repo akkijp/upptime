@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
+    "name": "Akki JP",
+    "url": "https://akki.jp",
+    "icon": "https://favicons.githubusercontent.com/akki.jp",
+    "slug": "akki-jp",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 89,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "time": 318,
+    "timeDay": 318,
+    "timeWeek": 318,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 714,
-    "timeDay": 714,
-    "timeWeek": 714,
-    "timeMonth": 714,
-    "timeYear": 714,
+    "time": 703,
+    "timeDay": 703,
+    "timeWeek": 703,
+    "timeMonth": 703,
+    "timeYear": 703,
     "dailyMinutesDown": {}
   },
   {
@@ -52,25 +52,25 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 11
+      "2022-03-29": 15
     }
   },
   {
-    "name": "Akki JP",
-    "url": "https://akki.jp",
-    "icon": "https://favicons.githubusercontent.com/akki.jp",
-    "slug": "akki-jp",
+    "name": "Google",
+    "url": "https://www.google.com",
+    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "slug": "google",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 327,
-    "timeWeek": 327,
-    "timeMonth": 327,
-    "timeYear": 327,
+    "time": 88,
+    "timeDay": 88,
+    "timeWeek": 88,
+    "timeMonth": 88,
+    "timeYear": 88,
     "dailyMinutesDown": {}
   }
 ]
