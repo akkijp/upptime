@@ -22,7 +22,7 @@
     "url": "https://remote.day",
     "icon": "https://favicons.githubusercontent.com/remote.day",
     "slug": "remote-day",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 714,
     "timeMonth": 744,
     "timeYear": 729,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-20": 0
+    }
   },
   {
     "name": "Remote day app",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-20": 5,
+      "2022-07-20": 86,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
