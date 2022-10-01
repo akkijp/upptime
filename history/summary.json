@@ -1,6 +1,6 @@
 [
   {
-    "name": "Akki JP",
+    "name": "AkkiJP",
     "url": "https://akki.jp",
     "icon": "https://favicons.githubusercontent.com/akki.jp",
     "slug": "akki-jp",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 268,
-    "timeWeek": 319,
-    "timeMonth": 312,
-    "timeYear": 327,
+    "time": 328,
+    "timeDay": 333,
+    "timeWeek": 335,
+    "timeMonth": 317,
+    "timeYear": 328,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 76,
-    "timeWeek": 82,
-    "timeMonth": 103,
+    "timeDay": 70,
+    "timeWeek": 79,
+    "timeMonth": 102,
     "timeYear": 93,
     "dailyMinutesDown": {}
   }
