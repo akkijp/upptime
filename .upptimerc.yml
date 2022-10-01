@@ -5,10 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Akki JP
     url: https://akki.jp
-  - name: Remote day
-    url: https://remote.day
-  - name: Remote day app
-    url: https://app.remote.day
   - name: Google
     url: https://www.google.com
 
