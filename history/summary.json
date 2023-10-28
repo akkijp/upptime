@@ -6,17 +6,16 @@
     "slug": "akki-jp",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 342,
-    "timeDay": 336,
-    "timeWeek": 369,
-    "timeMonth": 349,
+    "timeDay": 302,
+    "timeWeek": 356,
+    "timeMonth": 346,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2023-10-27": 8,
       "2023-07-25": 18
     }
   },
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 365,
-    "timeWeek": 121,
-    "timeMonth": 152,
+    "timeDay": 97,
+    "timeWeek": 120,
+    "timeMonth": 153,
     "timeYear": 111,
     "dailyMinutesDown": {}
   }
