@@ -4,7 +4,7 @@
     "url": "https://akki.jp",
     "icon": "https://icons.duckduckgo.com/ip3/akki.jp.ico",
     "slug": "akki-jp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
@@ -16,6 +16,7 @@
     "timeMonth": 305,
     "timeYear": 344,
     "dailyMinutesDown": {
+      "2023-12-24": 0,
       "2023-12-22": 19,
       "2023-07-25": 18
     }
